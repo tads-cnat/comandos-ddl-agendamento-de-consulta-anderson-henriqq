@@ -1,3 +1,8 @@
+#Anderson Henrique
+#Maycon Alex
+#Angelo Antonio
+
+
 import psycopg2
 
 # Conectar ao banco de dados PostgreSQL
